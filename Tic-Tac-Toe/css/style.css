@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightblue;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35vh;
+}
+.main-heading{
+    text-align: center;
+    margin-top: 10px;
+}
+.players{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 5px;
+}
+#game-box{
+    
+    height: 100px;
+    width: 400px;
+}
+#game-box .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin: 10px;
+}
+
+.tile-box{
+    
+    width: 150px;
+    height: 100px;
+    border: 5px solid darkslategray;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: 900;
+    color: darkgreen;
+   margin: 10px;
+   background-color: antiquewhite;
+
+}
+
+.winner-message{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    font-size: 2rem;
+}
+.action-btn{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 40vmin;
+
+    gap: 15px;
+    color: white;
+    
+
+}
+.reset-game, .new-game{
+    width: 25vmin;
+    height: 5vmin;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    
+}
+.hide{
+    display: none;
+}
+.disabled{
+    pointer-events: none;
+}

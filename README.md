@@ -40,9 +40,10 @@ Thank you for checking out my Tic Tac Toe Game project! I hope you find it usefu
 
 ### Contact
 
-- **Name:** Muhammad Awais
+- **Name:** Muhammad Awais Arshad
 - **GitHub:** [awaisarshad819](https://github.com/awaisarshad819)
 - **Email:** [awaisarshad819@gmail.com](mailto:awaisarshad819@gmail.com)
+- **LinkedIn:** [Muhammad Awais Arshad](https://www.linkedin.com/in/muhammadawais-arshad/)
 
 Feel free to reach out if you have any questions or suggestions!
 
